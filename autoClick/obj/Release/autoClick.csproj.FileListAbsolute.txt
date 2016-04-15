@@ -1,0 +1,10 @@
+C:\Users\Tiny__000\documents\visual studio 2013\Projects\autoClick\autoClick\bin\Release\autoClick.exe.config
+C:\Users\Tiny__000\documents\visual studio 2013\Projects\autoClick\autoClick\bin\Release\autoClick.exe
+C:\Users\Tiny__000\documents\visual studio 2013\Projects\autoClick\autoClick\bin\Release\autoClick.pdb
+C:\Users\Tiny__000\documents\visual studio 2013\Projects\autoClick\autoClick\obj\Release\autoClick.csprojResolveAssemblyReference.cache
+C:\Users\Tiny__000\documents\visual studio 2013\Projects\autoClick\autoClick\obj\Release\autoClick.background.resources
+C:\Users\Tiny__000\documents\visual studio 2013\Projects\autoClick\autoClick\obj\Release\autoClick.main.resources
+C:\Users\Tiny__000\documents\visual studio 2013\Projects\autoClick\autoClick\obj\Release\autoClick.Properties.Resources.resources
+C:\Users\Tiny__000\documents\visual studio 2013\Projects\autoClick\autoClick\obj\Release\autoClick.csproj.GenerateResource.Cache
+C:\Users\Tiny__000\documents\visual studio 2013\Projects\autoClick\autoClick\obj\Release\autoClick.exe
+C:\Users\Tiny__000\documents\visual studio 2013\Projects\autoClick\autoClick\obj\Release\autoClick.pdb
